@@ -1,0 +1,21 @@
+public abstract class SomeClass extends AnotherClass implements Class1,Class2
+{
+	public int printNumber(int a)
+	{
+		System.out.println(Interger.toString(a));
+	}
+
+	boolean c,b;
+
+	public int p,q,r;
+
+	List<String> list=new ArrayList<>();
+
+	Class1 c1;
+
+	public int callPrintNumber(int s,int t)
+	{
+		return s+t;
+	}
+}
+
